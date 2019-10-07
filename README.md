@@ -1,6 +1,6 @@
-John Lopez
-Southwest Technology Collage
-Version Control Management
+John Lopez,
+Southwest Technology Collage,
+Version Control Management.
 
 This repository exist because when applying for jobs, it is common for an potential employer to ask for your GitHub username and treat your account as a portfolio. Since many employers will judge you based off of how you organize your repositories, let's add some documentation to your newest one to provide them with useful information.
 
