@@ -6,5 +6,5 @@ This repository exist because when applying for jobs, it is common for an potent
 
 Hello, my name is John Lopez, I'm 22 years old, I'm a software development student with a open mind.
 
-My ends goals is to graduate and work in a enviroment that I can feel very confortable with my work place.
+My ends goals is to graduate and work in a environment that I can feel very confortable with.
 
